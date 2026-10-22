@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+streamlit
+ipykernel
+jupyter
+openpyxl
+pyarrow
+nbformat
